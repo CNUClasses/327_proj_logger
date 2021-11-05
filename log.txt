@@ -1,0 +1,3 @@
+in both file and stdout
+just in the file
+also in both file and stdout
